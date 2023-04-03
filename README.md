@@ -6,3 +6,4 @@ The development of Leif began in 2019 upon the release of operation Shattered We
 The newest stable build of Leif is 0.43 which added smoke lineups to its arsenal. The bot is stil in early development so its accomplishments in-game aren't very good. The best result is achieved via the usage of single shot weapons like shotguns and pistols. When in-game, Leif analyzes the player movements and overall behavior to implement them in itself. 
 
 To read what is currently being developed and what has been added in the previous patches, please read PATCHNOTES.md.
+![Untitled-1](https://user-images.githubusercontent.com/129680308/229511742-cff1dd96-4d2f-45d8-845b-aa8576d88e0e.jpg)
